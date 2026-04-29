@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public boolean isPalindrome(String s) {
         ArrayList<Character> list = new ArrayList<>();
