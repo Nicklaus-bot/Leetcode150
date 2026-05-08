@@ -1,6 +1,6 @@
-# LeetCode 150 Solutions
+# LeetCode Solutions
 
-This repository contains my solutions to the LeetCode Top 150 interview questions.
+This repository contains my LeetCode problem solutions and coding practice in Java.
 
 ## About
 The purpose of this repository is to improve:
@@ -64,14 +64,14 @@ The purpose of this repository is to improve:
 - Permutations
 - Combination Problems
 
-## Languages Used
+## Language Used
 - Java
 
 ## Goal
-Complete the LeetCode Top 150 problems while writing clean and optimized solutions.
+Practice LeetCode problems consistently while improving coding efficiency and problem-solving skills.
 
 ## Progress
-- Solving problems consistently
+- Solving problems regularly
 - Improving time and space complexity understanding
 - Practicing interview-style coding
 
